@@ -1,0 +1,41 @@
+https://gutendex.com/books/
+
+Buenas chicos!
+
+Os escribo para dejaros por escrito todos los detalles referentes al proyecto final de Javascript, tal y como comentamos en clase:
+
+En este enlace podéis encontrar la arquitectura base que podéis aplicar opcionalmente para vuestro proyecto: https://gitlab.com/upgrade-hub/202209-fsd-pt-hib/Javascript/javascript-pokemon-app. El repositorio incluye un ejemplo de solución para la API de Pokemon que podéis usar para ayudaros a completar vuestra web.
+
+La arquitectura no es obligatoria, pero si recomendable, ya que os ayudará al incluir webpack, bootstrap, live reloading, json server y tener toda la estructura de carpetas creada y enlazada. Para poder usar la arquitectura tendréis que eliminar aquellos archivos que comentamos en clase, para facilitarlo he dejado subida la arquitectura con solo los archivos base necesarios en la siguiente rama del repo: https://gitlab.com/upgrade-hub/202209-fsd-pt-hib/Javascript/javascript-pokemon-app/-/tree/base-architecture (base-architecture)
+
+La temática de la práctica es opcional y podéis utilizar tanto JSON server para crear vuestros propios datos como una api pública que os interese.
+
+Los requisitos básicos que debéis cumplir son:
+•	Una llamada a la API para recuperar datos ya sea usando JSON server o una api pública
+•	Un mapeado de datos (map de JS) para quedaros sólo con la información que necesitéis pintar.
+•	Una vista lista que muestre un listado de datos que pintéis en el html usando javascript. Los datos deberan recuperarse de la API.
+•	Una vista detalle que se sustituya por la vista lista eliminando y añadiendo elementos desde javascript. Esta vista se mostrará al hacer click sobre un elemento de la vista y deberá mostrar información más detallada.
+•	División de la lógica de las vistas y del api en distintos archivos JS usando imports y exports.
+Además, como requisitos extra (no obligatorios):
+•	Un buscador que nos permita filtrar para mostrar solo un elemento de la lista específico.
+•	Uso de clases y POO para modelar los elementos que se muestren. Añadir métodos y propiedades.
+Cualquier otro extra que se añada será valorado positivamente.
+
+En la entrega final NO se deberán incluir:
+•	Console logs
+•	Debuggers/
+•	Código comentado que no se esté usando
+Y se valorará positivamente que todo el código este documentado con comentarios que explique lo que hacen las funciones y fragmentos (Nos ayudará a entender lo que pretendéis hacer, aunque no lo logréis).
+
+La práctica tendrá dos entregas:
+•	Una primera el 12 de noviembre. Ese día en clase todos expondréis lo que habéis logrado.
+•	Una entrega final el 19 de noviembre que evaluaré. Os escribiré a cada uno mejoras que debéis tener en cuenta para el futuro después de corregir esta entrega.
+La sesión del 10 de noviembre la dedicaremos íntegramente a resolver dudas relacionadas con la práctica y ayudaros con problemas que vayáis encontrando.
+
+Recordaros que la entrega de esta práctica / proyecto final es obligatoria y debéis intentar cumplir al menos con todos sus requisitos básicos. En caso de no entregar la práctica no se podrá superar el módulo de Javascript.
+
+Tanto yo como Santi quedamos a vuestra disposición para cualquier duda que tengáis. ¡Estaremos encantados de ayudaros!
+
+¡Mucho ánimo chicos! Estoy seguro de que van a quedar unas buenas prácticas.
+
+Buen finde
